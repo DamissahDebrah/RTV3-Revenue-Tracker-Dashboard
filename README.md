@@ -55,7 +55,7 @@ PQP Marketing Consult needed a way to:
 
 ## 📸 Dashboard Preview
 
-![Revenue Tracker - Full View](https://github.com/DamissahDebrah/RTV3-Revenue-Tracker-Dashboard/blob/d000cfdcb59ee2f69bc0594e406e71e962b4b0bc/2025%20Revenue%20Tracker%20Board.png)
+![Revenue Tracker - Full View](https://github.com/DamissahDebrah/RTV3-Revenue-Tracker-Dashboard/blob/main/2025%20Revenue%20Tracker%20Board.png)
 
 ---
 
